@@ -8,7 +8,7 @@ Two-coordinate control accuracy rated by comparing lengths of right and left arr
 
 ### Prerequisites
 
-	[Unity 3D](https://unity3d.com/ru/get-unity/download)
+[Unity 3D](https://unity3d.com/ru/get-unity/download)
 	
 ### Installing
 	
@@ -17,11 +17,11 @@ Two-coordinate control accuracy rated by comparing lengths of right and left arr
 	3. Profit!
 
 ## Authors
-	- **Andrey Glazyrin** - *Creator of this project* -
-	- **Nikita Moshkin** - *Code refactoring.* -
-    [Hemul997](https://github.com/Hemul997)
+- **Andrey Glazyrin** - *Creator of this project*
+- **Nikita Moshkin** - *Code refactoring.* -
+[Hemul997](https://github.com/Hemul997)
 	
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSE.md)
-Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the [Apache License 2.0](LICENSE)
+Apache License 2.0 - see the [LICENSE](LICENSE) file for details
