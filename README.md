@@ -21,7 +21,7 @@ Two-coordinate control accuracy rated by comparing lengths of right and left arr
 - **Nikita Moshkin** - *Code refactoring.* -
 [Hemul997](https://github.com/Hemul997)
 	
-![start-test](/img/screenshots/start_test.JPG "Start test")
+![start-test](/img/screenshots/start-test.JPG "Start test")
 	
 ![end-test-iteration](/img/screenshots/iteration-end.jpg "Iteration end")
 
